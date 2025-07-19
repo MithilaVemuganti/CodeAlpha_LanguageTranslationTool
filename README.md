@@ -9,10 +9,11 @@ A professional, user-friendly web application for translating text between multi
 ## 🚀 Project Overview
 
 This language translator enables users to:
-- Enter text and select both source and target languages
-- Translate text using Google's reliable Translation API
-- Listen to the translated text using a built-in text-to-speech engine
-- Optionally copy the translated result for quick usage
+- Enter any text in any language – source language is auto-detected
+- Translate text into one of several supported languages with high accuracy
+- Listen to the translated text using integrated text-to-speech (TTS) with audio playback
+- Download the spoken translation as an MP3 file
+- View a clean translation history showing input, output, and timestamp
 
 Designed to offer a clean and simple interface while utilizing production-ready APIs for accurate and fast translations.
 

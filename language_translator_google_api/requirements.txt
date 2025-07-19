@@ -1,4 +1,0 @@
-streamlit
-google-cloud-translate
-gTTS
-playsound
